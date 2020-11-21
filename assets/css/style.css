@@ -1,0 +1,81 @@
+body{
+  padding: 0;
+  margin: 0;
+}
+
+h1,h2,h3,
+h4,h5,h6{
+  font-family: "Raleway", sans-serif;
+  padding: 0;
+  margin: 0;
+}
+
+p{
+  font-family: "Montserrat Alternates", sans-serif;
+  padding: 0;
+  margin: 0;
+}
+
+li{
+  font-family: "Montserrat Alternates", sans-serif;
+  padding: 0;
+  margin: 0;
+}
+
+img{
+  padding: 0;
+  margin: 0;
+}
+
+nav{
+  padding: 0;
+  margin: 0;
+}
+
+footer{
+  padding: 0;
+  margin: 0;
+}
+
+/* MULTI-USE CLASSES */
+
+.extrSpaceH{
+  padding-left: 0.5rem;
+}
+
+.mySpaceSaver{
+  padding: 0;
+  margin: 0;
+}
+
+/* NAVBAR & Landing*/
+.navBarCustomUpper{
+  background-color: #264653;
+  color: #F6BD60;
+  padding: 0;
+  margin: 0;
+}
+
+.navBarCustomLower{
+  background-color: rgb(38,70,83,0.9);
+  color: #F6BD60;
+  padding: 1rem 0;
+  margin: 0;
+}
+
+.custTogBtn{
+  border: none;
+  color: #F6BD60;
+}
+
+.navbar-nav .nav-item .nav-link{
+  font-weight: bolder;
+}
+
+.navbar-nav .nav-item .nav-link:hover{
+  color:rgb(233,196,106);
+  transition: all 0.5s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out;
+  -webkit-transition: all 0.5s ease-in-out;
+  -o-transition: all 0.5s ease-in-out;
+}
