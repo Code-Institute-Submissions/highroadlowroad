@@ -244,3 +244,75 @@ footer{
   color: #2A9D8F;
 }
 
+/* Contact Section */
+
+#contactSection{
+  background-image: url(../img/DSC3545.jpg);
+}
+
+#contactSection.checked{
+  background-image: url(../img/CR6.jpg);
+}
+
+.myForm{
+  padding: 0;
+  margin: 2rem 0;
+}
+
+.CFHead{
+  font-size: 2rem;
+  font-weight: bolder;
+  background-color: rgb(255,255,255,0.8);
+  box-shadow: 0 0 0.3rem 2px rgb(0,0,0, 0.2);
+  border-radius: 0.5rem;
+  padding: 0 0.5rem;
+  margin: 1rem 0;
+  color: #2A9D8F;
+}
+
+.CFBtnCust{
+  background-color: #F7EDE2;
+  border-color: #F7EDE2;
+  color: #F6BD60;
+  padding: 0.25rem 1.5rem 0;
+  margin-bottom: 1rem ;
+}
+
+.CFBtnCust:hover{
+  background-color: #F6BD60;
+  border-color: #F6BD60;
+  color:#F7EDE2;
+  transition: all 0.5s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out;
+  -webkit-transition: all 0.5s ease-in-out;
+  -o-transition: all 0.5s ease-in-out;
+}
+
+.cDetails{
+  font-size: 1rem;
+  font-weight: bold;
+  background-color: rgb(255,255,255,0.8);
+  box-shadow: 0 0 0.3rem 2px rgb(0,0,0, 0.2);
+  border-radius: 0.5rem;
+  padding: 1.5rem;
+  margin: 2rem 0;
+  color: #2A9D8F;
+}
+
+.cDetails h6{
+  padding: 0 0 0.5rem;
+  color: #264653;
+  text-decoration: underline;
+}
+
+.cDetails p{
+  padding: 0.5rem;
+  margin: 0;
+}
+
+.cDetails a{
+  font-size: 1.25rem;
+  padding: 0.5rem;
+  margin: 0;
+  color: #2A9D8F;
+}
