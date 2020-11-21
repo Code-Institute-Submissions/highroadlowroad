@@ -36,6 +36,12 @@ window.sr = ScrollReveal();
     origin:'bottom',
     distance: '300px'
   });
+  sr.reveal('.aboutBlurb',{
+    delay: 10,
+    duration: 2500,
+    origin:'bottom',
+    distance: '300px'
+  });
   sr.reveal('.p1',{
     delay: 10,
     duration: 2500,
