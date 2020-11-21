@@ -134,15 +134,15 @@ interact with the Google Maps API. For example, labelling two radio buttons: "Ci
 button, the relevant markers would appear on the Google Map.
 
 ### Speed Testing
-To measure the speed of the site's loading, I used GTMetrix. [Clicking on this link](https://gtmetrix.com/reports/lhbank.github.io/3LRBMkon/), 
+To measure the speed of the site's loading, I used GTMetrix. [Clicking on this link](https://gtmetrix.com/reports/lhbank.github.io/xDU0IArs/), 
 will open a new window with the report attached to HighRoadLowRoad.
 
 # Credits
 
 ## Media
 
-[Am I Responsive](http://ami.responsivedesign.is/?url=https%3A%2F%2Flhbank.github.io%2Fhighroadlowroad%2F#) - This tool had been utilised to demonstrate 
-the responsiveness that can be expected across various screen devices. In addition to using [Am I Responsive](http://ami.responsivedesign.is/?url=https%3A%2F%2Flhbank.github.io%2Fhighroadlowroad%2F#),
+[Am I Responsive](http://ami.responsivedesign.is/?url=https%3A%2F%2Flhbank.github.io%2Fhighroadlowroad%2F) - This tool had been utilised to demonstrate 
+the responsiveness that can be expected across various screen devices. In addition to using [Am I Responsive](http://ami.responsivedesign.is/?url=https%3A%2F%2Flhbank.github.io%2Fhighroadlowroad%2F),
 the site across personal mobile devices in Opera, Safari and Chrome, and found the responsiveness to be the same.
 
 <img src="wireframes/responsive.png" width="500">
