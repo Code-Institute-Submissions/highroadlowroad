@@ -102,3 +102,54 @@ throughout Scotland.
 * [Figma](https://www.figma.com) - This application was used to create an animated SVG which used Javascript on initial loading of site only.
 * [ScrollReveal](https://unpkg.com/scrollreveal) - This open source project listed in deployed GitHub pages, allowed elements with in each section of the site
   to respond the the user scrolling. The elements would then enter the browser window from different areas. This was used with Javascript.
+
+# Testing
+
+## Testing User Stories from User Experience (UX) Section
+
+### First Time Visitor Goals
+* As a first time user, I was able to see that the site used strong imagery to highlight key attractions within Scotland.
+* As a first time user, I was able to navigate with ease throughout the site using the navbar at the head of page, to each
+dedicated section and had options which linked to third party sites.
+* As a first time user, I was able to click on the social media links in the contact section of the site, via dedicated logos which I 
+recognised immediately.
+
+### Returning Visitor Goals
+* As a returning user, I was able to click on colourful customised interactive markers on the map, placed in the "Adventure" section of the site, and understand 
+their relevance. This made for ease of use, and was familiar on how to control the map for my own purposes.
+* As a returning user, I was able to send a message to the owner of HRLR to ascertain more information about a recommended attraction, advertised on the 
+featured Google Map.
+
+### Frequent User Goals
+* As a frequent user of the site, I was able to to access features of the site, which were inline with local government guidelines regarding COVID19. These features
+include the points of interest and markers displayed on the Google Map.
+* As a frequentt user of the site, I liked the functionality of the interchangeable background images, which portrayed the different landscapes to be experienced, from
+rural to urban, and would like to see more options in the future. I would also like the option to purchase these images as prints.
+
+## Further Testing
+
+### Scalability
+Ideas to further develop the site seamless use, and better user experience, would be to include radio buttons, which, using Javascript could
+interact with the Google Maps API. For example, labelling two radio buttons: "City Life" and "Rural Life", then, when selecting the respective 
+button, the relevant markers would appear on the Google Map.
+
+### Speed Testing
+To measure the speed of the site's loading, I used GTMetrix. [Clicking on this link](https://gtmetrix.com/reports/lhbank.github.io/3LRBMkon/), 
+will open a new window with the report attached to HighRoadLowRoad.
+
+# Credits
+
+## Media
+
+[Am I Responsive](http://ami.responsivedesign.is/?url=https%3A%2F%2Flhbank.github.io%2Fhighroadlowroad%2F#) - This tool had been utilised to demonstrate 
+the responsiveness that can be expected across various screen devices. In addition to using [Am I Responsive](http://ami.responsivedesign.is/?url=https%3A%2F%2Flhbank.github.io%2Fhighroadlowroad%2F#),
+the site across personal mobile devices in Opera, Safari and Chrome, and found the responsiveness to be the same.
+
+<img src="wireframes/responsive.png" width="500">
+
+## Content
+The process for me to create a functioning site, inclusive of Javascript, required a great deal of extra research into understanding how to best 
+serve the site's purpose. This meant watching various tutorials and reading varied and detailed documentation for inspiration. The following were used:
+
+* [Animated site-logo tutorial](https://www.youtube.com/watch?v=vJNVramny9k)
+* [Scotch.io](https://scotch.io/) - assisted in breaking down aspects of Javascript into more digestible parts.
