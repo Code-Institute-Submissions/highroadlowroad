@@ -165,3 +165,32 @@ footer{
   margin: 0.5rem;
   color: #F6BD60;
 }
+
+/* Testimonial Section */
+
+#testimonialSection{
+  background-image: url(../img/DSC4752.jpg);
+}
+
+#testimonialSection.checked{
+  background-image: url(../img/DSC7274.jpg);
+}
+
+.myCard{
+  font-weight: bolder;
+  opacity: 0.85;
+  padding: 0;
+  margin: 2rem 0;
+  color: #2A9D8F;
+}
+
+.myCardCarousel{
+  font-weight: bolder;
+  opacity: 0.85;
+  padding: 2.5rem;
+  color: #2A9D8F;
+}
+
+.custCarousel{
+  margin-top: 4rem;
+}
