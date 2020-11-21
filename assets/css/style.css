@@ -194,3 +194,53 @@ footer{
 .custCarousel{
   margin-top: 4rem;
 }
+
+/* Location Section */
+
+#locationSection{
+  background-image: url(../img/DSC1241.jpg);
+}
+
+#locationSection.checked{
+  background-image: url(../img/DSC7223.jpg);
+}
+
+.mapLegend{
+  background-color: rgb(255,255,255,0.8);
+  box-shadow: 0 0 0.3rem 2px rgb(0,0,0, 0.2);
+  border-radius: 0.5rem;
+  padding: 1rem;
+  margin: auto;
+  max-width: 300px;
+}
+
+.mapLegend ul li{
+  display: inline-flex;
+  list-style: none;
+  padding: 0.75rem 0.5rem;
+}
+
+.MLContain{
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+
+#map{
+  position: relative !important;
+  overflow: hidden;
+  top: 0;
+  left: 0;
+  height: 400px;
+  width: auto;
+  padding: 0;
+  margin: 1.5rem 0 1rem;
+  opacity: 0.9;
+}
+
+.mStyle{
+  font-size: 0.75rem;
+  font-weight: bold;
+  color: #2A9D8F;
+}
+
