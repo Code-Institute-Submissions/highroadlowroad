@@ -79,3 +79,47 @@ footer{
   -webkit-transition: all 0.5s ease-in-out;
   -o-transition: all 0.5s ease-in-out;
 }
+
+.bgImage{
+  min-width:100%;
+  min-height: 650px;
+  position:relative;
+  background-attachment:fixed;
+  background-position:center;
+  background-size:cover;
+  background-repeat:no-repeat;
+}
+
+#landingImage{
+  background-image: url(../img/DSC3719.jpg);
+}
+
+#landingImage.checked{
+  background-image: url(../img/DSC7317.jpg);
+}
+
+.tlContain{
+  position: relative;
+  top: 9rem;
+  font-size: 3rem;
+  color: #F7EDE2;
+  padding: 0;
+  margin: 0;
+}
+
+.tlContain p em{
+  color: #F28482;
+  font-weight: lighter;
+  padding: 0;
+  margin: 0;
+}
+
+.TagText{
+  background-color: rgb(38,70,83,0.2);
+  border-radius: 0.5rem;
+  min-width: 240px;
+}
+
+.headHide{
+  display: none;
+}
