@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="assets/img/HRLRLogo.jpg" alt="HRLR_logo">
+    <img src="assets/img/Logo.jpg" alt="HRLR_logo">
 </p>
 
 # High Road Low Road
