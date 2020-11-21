@@ -65,3 +65,40 @@ the text content was moving <em>around</em> the images.
 The wireframes created at the beginning of the project and used as a reference throughout are situated in a dedicated folder entitled ['wireframes'](...), 
 at the same level as the homepage, 'index.html'. It contains screenshot images, for both the Mobile, Tablet and Desktop viewport screen sizes, due to the use
 of Bootstrap, and the prioritisation on Mobile-first devices.
+
+# Features
+* Interactive Google Map.
+* Interactive links to related social media networks and subscription.
+* Contact Form.
+
+# Technologies Used
+* [ScrollReveal](https://unpkg.com/scrollreveal) - This open source project listed in deployed GitHub pages, allowed elements with in each section of the site
+  to respond to the user scrolling down the page for the first time. The elements would enter the browser window from different viewpoints. This was used with Javascript
+  and kept in a separate Javascript file from that of the Google Maps syntax, for clarity.
+
+## Languages Used
+* HTML5
+* CSS3
+* Javascript - Used within various key elements of the site, including: Navbar, Collapse, Dropdown Menu, Carousel, Buttons. It was also used for the animated elements of
+the site, such as: the Animated Site Logo and Scroll Reveal Utility.
+* Google API used in line with Javascript to create an interactive element which displayed image markers, representing locations 
+throughout Scotland.
+
+## Frameworks, Libraries & Programs Used
+* [Bootstrap 4.5](https://getbootstrap.com/) - Bootstrap was utilised as a framework for CSS used throughout the site.
+* [Popper.js](https://popper.js.org/) - Used for the navigation elements on Carousel elements used on the site.
+* [jQuery](https://jquery.com/) - Used as a Javascript library by Bootstrap.
+* [GitHub](https://github.com/) - GitHub was utilised for version control of the site.
+* [Gitpod](https://www.gitpod.io/) - Gitpod was used over the duration of this site, as a virtual workspace environment.
+* [WireframeCC](https://wireframe.cc/) - This service was utilised to create sample wireframe guides to structure the content to be displayed on the site.
+* [Google Fonts](https://fonts.google.com/) - Google Fonts was chosen to supply all fonts used throughout the site.
+* [Font Awesome](https://fontawesome.com/) - FontAwesome was used for icons used in footer.
+* [Materialize](https://materializecss.com/) - Materialize was used for the 'Hamburger' menu item at the top of the page.
+* [Coolors](https://coolors.co/) - This service, was used to generate a colour palette which would be used against all elements in a consistent theme throughout
+  the site.
+* Lightroom 4 - Pre-installed photography editing software used to compress the images used throughout the gallery pages.
+* [TinyPNG](https://tinypng.com/) - was used to further compress all images used throughout the site.
+* [Formspree.io](https://formspree.io/) - This tool was used to enable the user to contact the author/owner of the site, via a contact form on the Contact page.
+* [Figma](https://www.figma.com) - This application was used to create an animated SVG which used Javascript on initial loading of site only.
+* [ScrollReveal](https://unpkg.com/scrollreveal) - This open source project listed in deployed GitHub pages, allowed elements with in each section of the site
+  to respond the the user scrolling. The elements would then enter the browser window from different areas. This was used with Javascript.
