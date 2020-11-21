@@ -84,7 +84,6 @@ footer{
   min-width:100%;
   min-height: 650px;
   position:relative;
-  background-attachment:fixed;
   background-position:center;
   background-size:cover;
   background-repeat:no-repeat;
@@ -122,4 +121,47 @@ footer{
 
 .headHide{
   display: none;
+}
+
+/* About Section */
+
+#aboutSection{
+  background-image: url(../img/DSC4534.jpg);
+}
+
+#aboutSection.checked{
+  background-image: url(../img/DSC7194.jpg);
+}
+
+.sectionHeading{
+  background-color: rgb(38,70,83,0.2);
+  border-radius: 0.5rem;
+  min-width: 275px;
+  font-size: 2.5rem;
+  padding: 0;
+  margin: 1rem 0;
+  color: #F6BD60;
+}
+
+.sectionText{
+  border-radius: 0.5rem;
+  font-size: 1.5rem;
+  padding: 0;
+  margin: 1.5rem;
+  color: #F6BD60;
+}
+
+.brandHL{
+  font-style: italic;
+  font-weight: bold;
+  color: #F28482;
+}
+
+.sectionSubHead{
+  background-color: rgb(38,70,83,0.2);
+  border-radius: 0.5rem;
+  font-size: 1.5rem;
+  padding: 0.6rem;
+  margin: 0.5rem;
+  color: #F6BD60;
 }
