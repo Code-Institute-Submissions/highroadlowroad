@@ -114,3 +114,42 @@
     fill: #F6BD60;
   }
 }
+
+/* Footer Switch */
+
+.switch{
+  opacity: 0;
+}
+
+.switch-btn{
+  position: relative;
+  background: #2A9D8F;
+  border-radius: 19px;
+  padding: 0;
+  margin: 0;
+  width: 40px;
+  height: 20px;
+  cursor: pointer;
+}
+
+.switch-btn:before{
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: #F6BD60;
+  border-radius: 19px;
+  padding: 0;
+  margin: 0;
+  height: 20px;
+  width: 20px;
+  content: '';
+  transition: all 0.1s ease-in-out;
+  -moz-transition: all 0.1s ease-in-out;
+  -webkit-transition: all 0.1s ease-in-out;
+  -o-transition: all 0.1s ease-in-out;
+}
+
+input[type=checkbox]:checked + .switch-btn:before{
+  left: 20px;
+  background-color: #E76F51;
+}
