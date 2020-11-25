@@ -25,11 +25,11 @@ const myMarkers = [
   {coords:{lat: 55.9541,lng: -3.18569},iconImage: '../assets/img/markerR.png',content: '<p class="mStyle">Howies</p>'},
   {coords:{lat: 55.9536,lng: -3.19247},iconImage: '../assets/img/markerR.png',content: '<p class="mStyle">Dishoom</p>'},
   //Drinking
-  {coords:{lat: 55.95029,lng: -3.19167},iconImage: '../assets/img/markerP.png',content: '<p class="mStyle">Devils Advocate</p>'},
-  {coords:{lat: 55.959,lng: -3.19712},iconImage: '../assets/img/markerP.png',content: '<p class="mStyle">Cumberland Bar</p>'},
-  {coords:{lat: 55.94986,lng: -3.19358},iconImage: '../assets/img/markerP.png',content: '<p class="mStyle">Whiski Rooms</p>'},
-  {coords:{lat: 55.94815,lng: -3.18692},iconImage: '../assets/img/markerP.png',content: '<p class="mStyle">Jazz Bar</p>'},
-  {coords:{lat: 55.942,lng: -3.14854},iconImage: '../assets/img/markerP.png',content: '<p class="mStyle">Sheep Heid Inn</p>'},
+  {coords:{lat: 55.95029,lng: -3.19167},iconImage: '/assets/img/markerP.png',content: '<p class="mStyle">Devils Advocate</p>'},
+  {coords:{lat: 55.959,lng: -3.19712},iconImage: '/assets/img/markerP.png',content: '<p class="mStyle">Cumberland Bar</p>'},
+  {coords:{lat: 55.94986,lng: -3.19358},iconImage: '/assets/img/markerP.png',content: '<p class="mStyle">Whiski Rooms</p>'},
+  {coords:{lat: 55.94815,lng: -3.18692},iconImage: '/assets/img/markerP.png',content: '<p class="mStyle">Jazz Bar</p>'},
+  {coords:{lat: 55.942,lng: -3.14854},iconImage: '/assets/img/markerP.png',content: '<p class="mStyle">Sheep Heid Inn</p>'},
   //Sleeping
   {coords:{lat: 55.95315,lng: -3.18957},iconImage: '../assets/img/markerG.png',content: '<p class="mStyle">The Balmoral</p>'},
   {coords:{lat: 55.94979,lng: -3.20733},iconImage: '../assets/img/markerG.png',content: '<p class="mStyle">The Waldorf Astoria</p>'},
