@@ -121,7 +121,8 @@ featured Google Map.
 * As a frequent user of the site, I liked the functionality of the interchangeable background images, which portrayed the different landscapes to be experienced, from
 rural to urban, and would like to see more options in the future. I would also like the option to purchase these images as prints.
 * As a frequent user, I know that if required, I can contact the site owner, via the contact form to enquire about attractions and listed highlights as to whether
-they are deemed as safe and in line with government guidelines regarding the current COVID19 situation.
+they are deemed as safe and in line with government guidelines regarding the current COVID19 situation. I understood that from previous visits to the site, and discussion with
+the site proprietor that  the best way to ascertain more information which may not yet be available on-site can be provided through the contact form.
 
 ## Further Testing
 
