@@ -141,13 +141,14 @@ was the location of the marker images whilst being processed by the for loop. Th
 Simple errors such as this were overlooked, however, are fundamental to the User Experience.
 
 ### Scalability
-Ideas to further develop the site's seamless use, and better user experience, would be to include radio buttons, which, using Javascript could
-interact with the Google Maps API. For example, labelling two radio buttons: "City Life" and "Rural Life", then, when selecting the respective button, the relevant markers 
-would appear on the Google Map. What would also benefit the sight is to include an API which allowed for the user to organise 
-UK-wide travel arrangements, to be able to reach the destinations highlighted on the interactive Google Map.
+Ideas to further develop the site's seamless use, and better User Experience, would be to include radio buttons, which, using Javascript could
+interact with the Google Maps API. For example, labelling two radio buttons: "City" and "Rural", then, when selecting the respective button, the relevant markers 
+would appear on the Google Map. What would also benefit the site is to include an API which allowed for the user to organise UK-wide travel arrangements -  
+to be able to reach the destinations highlighted on the interactive Google Map. Another element to be added to improve the users experience, would be
+to add a feature box, with approved tour sites who are happy to be advertised on the HighRoadLowRoad site.
 
 ### Speed Testing
-To measure the speed of the site's loading, I used GTMetrix. [Clicking on this link](https://gtmetrix.com/reports/lhbank.github.io/xDU0IArs/), 
+To measure the speed of the site's loading, GTMetrix was used. [Clicking on this link](https://gtmetrix.com/reports/lhbank.github.io/xDU0IArs/), 
 will open a new window with the report attached to HighRoadLowRoad.
 
 # Credits
