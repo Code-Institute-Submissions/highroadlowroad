@@ -78,6 +78,12 @@ window.sr = ScrollReveal();
     origin:'bottom',
     distance: '300px'
   });
+  sr.reveal('.custCarousel',{
+    delay: 10,
+    duration: 2500,
+    origin:'top',
+    distance: '300px'
+  });
   sr.reveal('#map',{
     delay: 10,
     duration: 2500,
