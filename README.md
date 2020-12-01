@@ -27,18 +27,18 @@ confirming that the site has been published.
 
 ## User Experience (UX)
 
-## User Stories
+### User Stories
 
-### First Time Visitor Goals
+#### First Time Visitor Goals
 * As a new user to the site, I want to be able to visit the site and understand its main purpose and is kept up-to-date.
 * As a new user to the site, I want to be able to navigate easily through the site to find specific content regarding the site's purpose.
 * As a new user to the site, I want to have the option to visit social media sites, related to HighRoadLowRoad.
 
-### Returning Visitor Goals
+#### Returning Visitor Goals
 * As a returning user to the site, I want to be able to contact the proprietor and for any issues or further ideas regarding a vacation to Scotland.
 * As a returning user to the site, I want to understand the designation of the colour coded markers with those of the markers on the interactive map.
 
-### Frequent User Goals
+#### Frequent User Goals
 * As a frequent user of the site, I must be able to check for more recent testimonials published on the site, about the service HighRoadLowRoad
 provide, as well as their presence and reputation within travel and tourism.
 
@@ -70,8 +70,8 @@ of Bootstrap, and the prioritisation on Mobile-first devices.
 
 # Features
 * Interactive Google Map - Utilising the Google Maps API was fundamental to this project, and all relevant Javascript can be found in the map.js file. regarding
-the custom markers, which were created using Figma, the image files can be found in the assets directory under img. 
-* Interactive links to related social media networks.
+the custom markers, which were created using [Figma](https://www.figma.com), the image files can be found in the 'assets' directory under 'img'. 
+* Interactive links to related social media networks, pertinent to travel and tourism.
 * Contact Form - Using [Formspree.io](https://formspree.io/). Having used this trusted service for previous projects, knew this to be reliable.
 
 # Technologies Used
@@ -183,8 +183,9 @@ the site across personal mobile devices in Opera, Safari and Chrome, and found t
 
 ## Content
 The process for me to create a functioning site, inclusive of Javascript, required a great deal of extra research into understanding how to best serve the site's purpose. This meant
-watching various tutorials and reading varied and detailed documentation for inspiration. The following were used:
+watching various tutorials and reading varied and detailed documentation for inspiration. The most crucial resources used to develop this project were as follows:
 
+* [Code Institute](https://www.codeinstitute.net) - Continues to serve as my course provider and inspiration regarding coursework and projects.
 * [Animated site-logo tutorial](https://www.youtube.com/watch?v=vJNVramny9k) - A YouTube tutorial published by DevEd, which incorporated the use of Figma to create
 a unique animated logo.
 * [Scotch.io](https://scotch.io/) - assisted in breaking down aspects of Javascript into more digestible parts.
