@@ -105,7 +105,8 @@ Git requests and submissions, hadn't been implemented, and so switched to Gitpod
 * [Figma](https://www.figma.com) - This application was used to create an animated SVG that used Javascript on the initial loading of the site only.
 * [ScrollReveal](https://unpkg.com/scrollreveal) - This open-source project listed in deployed GitHub pages, allowed elements within each section of the site to 
 respond to the user scrolling. The elements would then enter the browser window from different viewpoints. This was used with Javascript.
-
+* [JSHint](https://jshint.com/) - This open source project deployed to GitHub was used to test the Javascript syntax used throughout the site.
+* [W3 Validator](https://validator.w3.org/) - Used for both the HTML and [CSS](http://jigsaw.w3.org/css-validator/) aspects of the site, to test for errors.
 # Testing
 
 ## Testing User Stories from User Experience (UX) Section
