@@ -107,5 +107,5 @@ window.sr = ScrollReveal();
 
   document.getElementById("footerBtn").addEventListener("click",function(){
     [...document.querySelectorAll(".bgImage")]
-      .forEach(img => img.classList.toggle("checked",this.checked))
-  })
+      .forEach(img => img.classList.toggle("checked",this.checked));
+  });

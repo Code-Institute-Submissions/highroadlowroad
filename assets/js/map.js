@@ -8,7 +8,7 @@ function initMap() {
   }
 });
 
-//City Markers
+//Markers
 const myMarkers = [
 //City
   //Sights
@@ -56,12 +56,12 @@ const myMarkers = [
   {coords:{lat: 58.63798,lng: -3.13897},iconImage: 'assets/img/markerG.png',content: '<a href="http://retreatonthe500.co.uk/" class="mStyle" target="_blank">Retreat on the 500, Wick<br>Accom.</a>'}
   ];
 
-//City Marker Loop
+//Marker Loop
 for(let i = 0; i < myMarkers.length; i++){
   addMyMarker(myMarkers[i]);
 }
 
-//City Marker Function
+//Marker Function
 function addMyMarker(props){
   const mapMarker = new google.maps.Marker({
     position: props.coords,
