@@ -83,7 +83,7 @@ Javascript and kept in a separate Javascript file from that of the Google Maps s
 * HTML5
 * CSS3
 * Javascript - Used within various key elements of the site, including Navbar, Collapse, Dropdown Menu, Carousel, Buttons. It was also used for the animated elements of
-the site, such as the Animated Site Logo and Scroll Reveal Utility.
+the site, such as the Animated Site Logo and Scroll Reveal.
 
 ## Frameworks, Libraries & Programs Used
 * [Bootstrap 4.5](https://getbootstrap.com/) - Bootstrap was utilised as a framework for CSS used throughout the site.
@@ -154,7 +154,10 @@ would have been redundant, and places of interest would not have been visible to
 On scrolling, the background images were set to a fixed position, of the browser window - excluding of course the scrollbar - to give the illusion that 
 the text content was moving <em>around</em> the images. Having seen this used on many modern commercial websites, I thought that this would transition well between background images, 
 however on testing, the images were distorted on smaller devices, and the effect wasn't identifiable. This was due to lack of support by browsers on smaller devices, and instead 
-I chose to implement the open-source Scroll Reveal package, as mentioned.
+I chose to implement the open-source Scroll Reveal package, as mentioned. 
+
+The Scroll Reveal feature is an open source project, which has been published to Github for all to implement to their own websites or web-based projects. It is a Javascript library, 
+which allows the developer to animate elements within html syntax when scrolling throughout a websites content. It was tested on Chrome, Safari, and Opera Browsers with no reported issues.
 
 ### Scalability
 Ideas to further develop the site's seamless use, and improved User Experience, would be to include radio buttons, which, using Javascript could interact
