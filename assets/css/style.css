@@ -131,7 +131,7 @@ footer{
 }
 
 #aboutSection.checked{
-  background-image: url(../img/DSC0490.jpg);
+  background-image: url(../img/DSC1241.jpg);
 }
 
 .sectionHeading{
@@ -149,7 +149,7 @@ footer{
   font-weight: bold;
   padding: 0;
   margin: 1.5rem;
-  color: #2A9D8F;
+  color: #F6BD60;
 }
 
 .aboutBlurb{
@@ -204,7 +204,7 @@ footer{
 /* Location Section */
 
 #locationSection{
-  background-image: url(../img/DSC1241.jpg);
+  background-image: url(../img/DSC0490.jpg);
 }
 
 #locationSection.checked{
