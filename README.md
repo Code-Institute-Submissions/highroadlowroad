@@ -75,9 +75,9 @@ the custom markers, which were created using [Figma](https://www.figma.com), the
 * Contact Form - Using [Formspree.io](https://formspree.io/). Having used this trusted service for previous projects, knew this to be reliable.
 
 # Technologies Used
-* [ScrollReveal](https://unpkg.com/scrollreveal) - This open-source project listed in deployed GitHub pages, allowed elements within each section of the site 
-to respond to the user scrolling down the page for the first time. The elements would enter the browser window from different viewpoints. This was used with 
-Javascript and kept in a separate Javascript file from that of the Google Maps syntax, for clarity.
+* [ScrollReveal](https://github.com/jlmakes/scrollreveal/wiki/Getting-Started-(v3.x)) - This version of the open-source project listed in deployed GitHub pages, allowed elements 
+within each section of the site to respond to the user scrolling down the page for the first time. The elements would enter the browser window from different viewpoints. 
+This was used with Javascript and kept in a separate Javascript file from that of the Google Maps syntax, for clarity.
 
 ## Languages Used
 * HTML5
@@ -103,7 +103,7 @@ Git requests and submissions, hadn't been implemented, and so switched to Gitpod
 * [TinyPNG](https://tinypng.com/) - was used to further compress all images used throughout the site.
 * [Formspree.io](https://formspree.io/) - This tool was used to enable the user to contact the author/owner of the site, via a contact form on the Contact page.
 * [Figma](https://www.figma.com) - This application was used to create an animated SVG that used Javascript on the initial loading of the site only.
-* [ScrollReveal](https://unpkg.com/scrollreveal) - This open-source project listed in deployed GitHub pages, allowed elements within each section of the site to 
+* [ScrollReveal](https://github.com/jlmakes/scrollreveal/wiki/Getting-Started-(v3.x)) - This open-source project listed in deployed GitHub pages, allowed elements within each section of the site to 
 respond to the user scrolling. The elements would then enter the browser window from different viewpoints. This was used with Javascript.
 * [JSHint](https://jshint.com/) - This open source project deployed to GitHub was used to test the Javascript syntax used throughout the site.
 * [W3 Validator](https://validator.w3.org/) - Used for both the HTML and [CSS](http://jigsaw.w3.org/css-validator/) aspects of the site, to test for errors.
